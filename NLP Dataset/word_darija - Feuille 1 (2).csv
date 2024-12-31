@@ -1,0 +1,751 @@
+word,sentiment,score
+تبرزيط,Négatif,-0.8
+غضب,Négatif,-0.9
+نشاط,Positif,0.8
+قبول,Positif,0.7
+شجاعة,Positif,0.8
+تقة,Positif,0.7
+ملل,Négatif,-0.7
+لامبالاة,Négatif,-0.8
+فضول,Neutre,0.0
+كآبة,Négatif,-0.9
+رغبة,Positif,0.7
+تايعيف,Négatif,-0.6
+شك,Négatif,-0.7
+نشوة,Positif,0.8
+إحراج,Négatif,-0.8
+لمريڭ,Négatif,-0.7
+إيمان,Positif,0.9
+خوف,Négatif,-0.8
+إحباط,Négatif,-0.9
+تعاطف,Positif,0.8
+شكر,Positif,0.9
+طمع,Négatif,-0.6
+دنب,Négatif,-0.9
+تأنيب الضمير,Négatif,-0.8
+حماس,Positif,0.8
+سعادة,Positif,0.9
+لفَرحة,Positif,0.9
+كراهية,Négatif,-1.0
+حسد,Négatif,-0.9
+شهوة,Négatif,-0.7
+حبّ,Positif,1.0
+وحدة,Négatif,-0.8
+ضرافات,Positif,0.6
+فرح,Positif,0.9
+غيرة,Négatif,-0.7
+دلّ,Négatif,-0.6
+رعب,Négatif,-0.9
+أمل,Positif,0.9
+الندم,Négatif,-0.8
+الرفض,Négatif,-0.8
+فخر,Positif,0.8
+شفقة,Positif,0.7
+شغف,Positif,0.9
+حنين,Positif,0.8
+حشمة,Positif,0.7
+صدمة,Négatif,-0.9
+عار,Négatif,-1.0
+حزن,Négatif,-0.9
+معاناة,Négatif,-0.9
+مفاجأة,Neutre,0.0
+خلعة,Négatif,-0.9
+وسواس,Négatif,-0.7
+فقسة,Négatif,-0.6
+طموح,Positif,0.8
+إحساس,Neutre,0.0
+شعور,Neutre,0.0
+عاطفة,Neutre,0.0
+بخير,Positif,0.8
+زوين,Positif,0.8
+مزيان بزاف,Positif,0.9
+رايع,Positif,0.9
+مبروك,Positif,1.0
+ضحك,Positif,0.8
+برافو,Positif,0.8
+مرضية,Positif,0.7
+غضبان,Négatif,-0.8
+حزين,Négatif,-0.9
+ماشي مزيان,Négatif,-0.7
+عيان,Négatif,-0.6
+كره,Négatif,-0.9
+دمرني,Négatif,-1.0
+مصيبة,Négatif,-0.9
+حرام,Négatif,-1.0
+معقد,Négatif,-0.8
+وخيبة,Négatif,-0.9
+ما عجبنيش,Négatif,-0.8
+مثير للاهتمام,Neutre,0.0
+ساهل,Positif,0.6
+عادي,Neutre,0.0
+متوسط,Neutre,0.0
+جديد,Neutre,0.0
+قديم,Neutre,0.0
+صراحة,Neutre,0.0
+ما عندي حتى رأي,Neutre,0.0
+صافي,Neutre,0.0
+احترام,Positif,0.8
+كرامة,Positif,0.9
+شرف,Positif,0.9
+إعجاب,Positif,0.8
+تقدير,Positif,0.7
+امتنان,Positif,0.8
+مكانة,Positif,0.7
+عدم الأمان,Négatif,-0.8
+خوف من الفشل,Négatif,-0.9
+خجل,Négatif,-0.7
+تردد,Négatif,-0.6
+عدم اليقين,Négatif,-0.7
+عدم الثقة,Négatif,-0.8
+حنان,Positif,0.9
+تعلق,Positif,0.8
+عطف,Positif,0.8
+رحمة,Positif,0.9
+لطف,Positif,0.8
+عدم الرضا,Négatif,-0.8
+زعاف,Négatif,-0.7
+استياء,Négatif,-0.8
+خيبة أمل,Négatif,-0.9
+ندم,Négatif,-0.8
+زعما,Neutre,0.0
+مرارة,Négatif,-0.8
+ضغينة,Négatif,-0.9
+إرادة,Positif,0.8
+طموح كبير,Positif,0.9
+رغبة كبيرة,Positif,0.8
+دافع,Positif,0.7
+عزم,Positif,0.9
+دهشة,Neutre,0.0
+عدم التصديق,Négatif,-0.7
+ذهول,Négatif,-0.8
+عدم الفهم,Négatif,-0.7
+حيرة,Négatif,-0.6
+تخربيقة,Négatif,-0.7
+هدوء,Positif,0.8
+سكينة,Positif,0.9
+حياد,Neutre,0.0
+رضا معتدل,Neutre,0.0
+راحة البال,Positif,0.8
+ثقة معتدلة,Positif,0.7
+احتقار,Négatif,-0.9
+خوف كبير,Négatif,-0.9
+طمأنينة,Positif,0.9
+حب,Positif,1.0
+رضا,Positif,0.8
+ناشط,Positif,0.7
+رائع,Positif,0.9
+مرتاح,Positif,0.8
+فرحة,Positif,0.9
+ضحكة,Positif,0.8
+حلو,Positif,0.7
+نجاح,Positif,1.0
+محبة,Positif,0.9
+تبارك,Positif,1.0
+مزيان,Positif,0.8
+عايق,Neutre,0.0
+عقل,Positif,0.7
+مرحب,Positif,0.9
+تعبان,Négatif,-0.7
+كريه,Négatif,-0.9
+مشكل,Négatif,-0.8
+بشع,Négatif,-0.9
+كسول,Négatif,-0.8
+قهر,Négatif,-0.9
+ظالم,Négatif,-1.0
+عدواني,Négatif,-1.0
+حقد,Négatif,-1.0
+صداع,Négatif,-0.8
+محطم,Négatif,-1.0
+محظوظ,Positif,0.9
+مسرور,Positif,0.9
+هادئ,Positif,0.8
+قانع,Positif,0.7
+قوي,Positif,0.9
+عظيم,Positif,1.0
+عاطف,Positif,0.8
+محبوب,Positif,1.0
+ثقة,Positif,0.9
+جدية,Positif,0.7
+قمة,Positif,0.9
+نجومية,Positif,0.8
+مميز,Positif,0.9
+متفائل,Positif,0.9
+راضي,Positif,0.8
+رابح,Positif,0.9
+مبدع,Positif,1.0
+جميل,Positif,0.9
+كريم,Positif,0.9
+سخاء,Positif,0.9
+إبداع,Positif,1.0
+اليف,Positif,0.8
+مفرح,Positif,0.9
+ناجح,Positif,1.0
+محترم,Positif,0.8
+ذكي,Positif,0.9
+مبتسم,Positif,0.8
+غامض,Neutre,0.0
+مظلوم,Négatif,-0.9
+خبيث,Négatif,-1.0
+شكوى,Négatif,-0.7
+مخيف,Négatif,-0.9
+سيئ,Négatif,-1.0
+حرمان,Négatif,-1.0
+عداوة,Négatif,-0.9
+هم,Négatif,-0.8
+قلة,Négatif,-0.7
+تشاؤم,Négatif,-0.9
+وحشية,Négatif,-1.0
+حرب,Négatif,-1.0
+صراع,Négatif,-0.9
+مستحيل,Négatif,-1.0
+مزيف,Négatif,-0.8
+فقر,Négatif,-0.9
+عصبي,Négatif,-0.8
+صادق,Positif,0.9
+واثق,Positif,0.8
+مرح,Positif,0.9
+أنيس,Positif,0.8
+بشوش,Positif,0.9
+نشيط,Positif,0.9
+معقول,Neutre,0.0
+شجاع,Positif,0.9
+خير,Positif,1.0
+مخلص,Positif,1.0
+حيوية,Positif,0.9
+انسجام,Positif,0.9
+تفاؤل,Positif,1.0
+هدية,Positif,0.8
+تحفيز,Positif,0.9
+رضى,Positif,0.9
+صفاء,Positif,0.8
+دعم,Positif,0.9
+استقرار,Positif,0.8
+صدق,Positif,0.9
+رعاية,Positif,0.9
+التزام,Positif,0.8
+تطور,Positif,0.9
+سلبي,Négatif,-0.9
+جريمة,Négatif,-1.0
+عذاب,Négatif,-1.0
+إهانة,Négatif,-1.0
+مقرف,Négatif,-0.9
+مشتت,Négatif,-0.8
+ضعف,Négatif,-0.9
+احباط,Négatif,-1.0
+عدوانية,Négatif,-1.0
+دموع,Négatif,-0.9
+تراجع,Négatif,-0.8
+ندب,Négatif,-0.7
+مرض,Négatif,-0.9
+تعاسة,Négatif,-1.0
+اختناق,Négatif,-0.9
+خيبة,Négatif,-1.0
+تشويه,Négatif,-1.0
+توتر,Négatif,-0.8
+صراخ,Négatif,-0.9
+عقبة,Négatif,-0.8
+نور,Positif,1.0
+قوة,Positif,0.9
+أمان,Positif,1.0
+رفاهية,Positif,0.9
+عشق,Positif,1.0
+ود,Positif,0.9
+مغامرة,Positif,0.9
+تحدي,Positif,0.9
+حرية,Positif,1.0
+فرصة,Positif,0.9
+إيجابية,Positif,1.0
+إنجاز,Positif,1.0
+شهرة,Positif,0.9
+تميز,Positif,1.0
+احتفال,Positif,0.9
+مجد,Positif,1.0
+بريق,Positif,0.8
+استمتاع,Positif,1.0
+ألفة,Positif,0.8
+إشراقة,Positif,0.9
+راحة,Positif,1.0
+سلاسة,Positif,0.8
+ودود,Positif,1.0
+حسن,Positif,0.9
+سرور,Positif,1.0
+مشوق,Positif,0.9
+متعة,Positif,1.0
+انتقام,Négatif,-1.0
+حسرة,Négatif,-0.9
+تعب,Négatif,-0.8
+مأساة,Négatif,-1.0
+بشاعة,Négatif,-1.0
+هزيمة,Négatif,-1.0
+فوضى,Négatif,-1.0
+استهزاء,Négatif,-0.8
+سخرية,Négatif,-0.8
+خيانة,Négatif,-1.0
+صعوبة,Négatif,-0.9
+إهمال,Négatif,-0.8
+عناء,Négatif,-0.9
+إزعاج,Négatif,-0.7
+تدمير,Négatif,-1.0
+غموض,Neutre,0.0
+خسارة,Négatif,-1.0
+تسلط,Négatif,-1.0
+ظلم,Négatif,-1.0
+نجاة,Positif,1.0
+تفوق,Positif,1.0
+تيسير,Positif,0.9
+سماحة,Positif,0.9
+حبور,Positif,0.9
+رونق,Positif,0.8
+قيمة,Positif,0.9
+تصالح,Positif,0.9
+إخلاص,Positif,1.0
+شهامة,Positif,0.9
+وفاء,Positif,1.0
+تصفيق,Positif,0.9
+استبشار,Positif,1.0
+براءة,Positif,0.9
+خفة,Positif,0.8
+انسحاب,Négatif,-0.8
+جود,Positif,0.9
+كرم,Positif,1.0
+قلب,Positif,0.9
+تشجيع,Positif,0.9
+احتضان,Positif,1.0
+رقة,Positif,0.9
+شوق,Positif,0.9
+سر,Neutre,0.0
+صمود,Positif,0.9
+تهليل,Positif,1.0
+فرج,Positif,1.0
+إلهام,Positif,0.9
+وحيد,Négatif,-0.7
+مهمل,Négatif,-0.9
+عدوان,Négatif,-1.0
+كذب,Négatif,-1.0
+تدهور,Négatif,-1.0
+هدم,Négatif,-1.0
+نقمة,Négatif,-1.0
+هموم,Négatif,-0.9
+بؤس,Négatif,-1.0
+شراسة,Négatif,-1.0
+عجز,Négatif,-0.9
+خمول,Négatif,-0.8
+تحطيم,Négatif,-1.0
+اكتئاب,Négatif,-1.0
+ندامة,Négatif,-0.9
+تشكيك,Négatif,-0.8
+يأس,Négatif,-1.0
+خصام,Négatif,-0.9
+وحشة,Négatif,-0.9
+غدر,Négatif,-1.0
+تفرقة,Négatif,-1.0
+معارضة,Négatif,-0.9
+سوء,Négatif,-0.9
+دمار,Négatif,-1.0
+خزي,Négatif,-1.0
+ظلام,Négatif,-1.0
+غياب,Négatif,-0.9
+نفي,Négatif,-0.9
+فساد,Négatif,-1.0
+عدل,Positif,1.0
+تعاون,Positif,1.0
+تضامن,Positif,1.0
+وفرة,Positif,0.9
+احتراف,Positif,0.9
+ثبات,Positif,0.9
+أمانة,Positif,1.0
+حكمة,Positif,1.0
+أصالة,Positif,1.0
+إنصاف,Positif,1.0
+عطاء,Positif,1.0
+صداقة,Positif,1.0
+ازدهار,Positif,1.0
+إيثار,Positif,1.0
+نقاء,Positif,0.9
+استقامة,Positif,1.0
+تضحية,Positif,1.0
+طيبة,Positif,1.0
+ابتسامة,Positif,1.0
+نبل,Positif,1.0
+أخلاق,Positif,1.0
+قناعة,Positif,0.9
+إشراق,Positif,1.0
+رقي,Positif,0.9
+سلام,Positif,1.0
+تواصل,Positif,0.9
+تعبير,Positif,0.9
+هروب,Négatif,-0.8
+شكاية,Négatif,-0.8
+تناقض,Négatif,-0.9
+تماطل,Négatif,-0.8
+انفتاح,Positif,0.8
+انغلاق,Négatif,-0.9
+نضج,Positif,0.9
+شقاء,Négatif,-1.0
+صراع داخلي,Négatif,-1.0
+ندم عميق,Négatif,-1.0
+طيش,Négatif,-0.8
+انفعال,Négatif,-0.9
+وعي,Positif,1.0
+تفهم,Positif,1.0
+استغلال,Négatif,-1.0
+سوء تفاهم,Négatif,-0.9
+احتقار ذاتي,Négatif,-1.0
+ثقة زائدة,Négatif,-0.8
+تقبل,Positif,1.0
+رحابة صدر,Positif,1.0
+كلف,Neutre,0.0
+توقعات,Neutre,0.0
+صلابة,Positif,0.9
+حيلة,Neutre,0.0
+انتقاد,Négatif,-0.8
+اندماج,Positif,1.0
+فوضى عارمة,Négatif,-1.0
+انجذاب,Positif,0.9
+اكتفاء,Positif,0.9
+توكل,Positif,0.8
+قناعة داخلية,Positif,0.9
+توتر مستمر,Négatif,-0.9
+استياء داخلي,Négatif,-0.9
+انسجام تام,Positif,1.0
+تأمل,Positif,0.9
+لوم,Négatif,-0.8
+انبهار,Positif,0.9
+محاولة,Positif,0.8
+غرور,Négatif,-0.9
+تصدي,Positif,0.9
+صبر,Positif,1.0
+نفاق,Négatif,-1.0
+حلم,Positif,1.0
+تقدير ذاتي,Positif,1.0
+تقديس,Positif,0.9
+تحقير,Négatif,-1.0
+استنكار,Négatif,-1.0
+اطمئنان,Positif,1.0
+اندفاع,Négatif,-0.8
+استسلام,Négatif,-0.9
+تيهان,Négatif,-0.8
+فخر داخلي,Positif,1.0
+تضايق,Négatif,-0.9
+تواضع,Positif,1.0
+تشجيع ذاتي,Positif,1.0
+شوق داخلي,Positif,0.9
+عزلة,Négatif,-0.9
+كبر,Négatif,-0.8
+اضطراب,Négatif,-0.9
+أمل كبير,Positif,1.0
+تمني,Positif,0.9
+تقوى,Positif,1.0
+سخط,Négatif,-1.0
+امتثال,Positif,0.9
+انفتاح عقلي,Positif,1.0
+انسجام روحي,Positif,1.0
+تصدي للواقع,Positif,0.9
+توقير,Positif,1.0
+سذاجة,Négatif,-0.8
+تفاؤل مفرط,Positif,1.0
+انتصار ذاتي,Positif,1.0
+ابتعاد,Négatif,-0.7
+استنكار داخلي,Négatif,-1.0
+حب الاستطلاع,Positif,0.8
+راحة نفسية,Positif,1.0
+لوم ذاتي,Négatif,-0.9
+مقاومة,Positif,1.0
+استكبار,Négatif,-0.9
+أمل داخلي,Positif,1.0
+جفاء,Négatif,-0.8
+عتاب,Négatif,-0.8
+عزيمة,Positif,1.0
+دكاء,Positif,1.0
+فرحة داخلية,Positif,1.0
+تمني التغيير,Positif,0.9
+رغبة في التفوق,Positif,1.0
+يقين,Positif,1.0
+وحدة داخلية,Négatif,-0.8
+غيظ,Négatif,-1.0
+شغف داخلي,Positif,1.0
+عزم كبير,Positif,1.0
+كرم النفس,Positif,1.0
+نية,Positif,0.9
+حس فكاهي,Positif,1.0
+توتر داخلي,Négatif,-0.9
+مبادرة,Positif,1.0
+هيبة,Positif,1.0
+انتعاش,Positif,1.0
+عزوف,Négatif,-0.8
+احساس عميق,Positif,0.9
+تعالي,Négatif,-0.9
+عجز داخلي,Négatif,-0.9
+كئيب,Négatif,-1.0
+فقصة,Négatif,-0.8
+معصب,Négatif,-0.8
+ماصدقتش,Négatif,-0.8
+دخت,Négatif,-0.9
+قلب كبير,Positif,1.0
+خاطر عريض,Positif,0.9
+كنحس بالقوة,Positif,1.0
+فقصة كبيرة,Négatif,-0.8
+ماقتنعش,Négatif,-0.9
+كنحس بنقص,Négatif,-1.0
+خايب,Négatif,-1.0
+اعتزاز,Positif,1.0
+شكوك,Négatif,-0.9
+ودّ,Positif,1.0
+حنق,Négatif,-1.0
+غرام,Positif,1.0
+كرب,Négatif,-1.0
+بهجة,Positif,1.0
+زهو,Positif,1.0
+غم,Négatif,-1.0
+انتشاء,Positif,1.0
+سكون,Positif,0.9
+السخط,Négatif,-1.0
+احتفالية,Positif,1.0
+خلط,Négatif,-0.8
+عدم يقين,Négatif,-0.9
+فرحة غامرة,Positif,1.0
+ذكريات,Neutre,0.0
+شعور بالذنب,Négatif,-0.9
+تأنيب,Négatif,-0.9
+فزع,Négatif,-0.9
+وجع,Négatif,-1.0
+تشاؤمي,Négatif,-1.0
+آسف,Négatif,-0.8
+ﺍَﻟذُّﻋْرْ,Négatif,-1.0
+نفور,Négatif,-0.9
+ألم,Négatif,-1.0
+فشل,Négatif,-1.0
+شكرا,Positif,1.0
+واخا,Neutre,0.0
+بسلامة,Positif,1.0
+بداية,Positif,0.7
+ملهم,Positif,0.9
+تنمية,Positif,0.9
+اتزان,Positif,0.7
+منظومة,Neutre,0.0
+إبداعي,Positif,0.9
+قيادي,Positif,0.8
+تركيز,Positif,0.8
+كمال,Positif,0.9
+تربية,Positif,0.6
+ترفيه,Positif,0.7
+تفكير,Neutre,0.0
+تملق,Négatif,-0.7
+استرخاء,Positif,0.7
+فوز,Positif,1.0
+تيتمازج,Positif,0.6
+تيميل,Neutre,0.0
+فرغ,Négatif,-0.5
+مفعم بالحيوية,Positif,0.8
+زينة,Positif,0.7
+خلل,Négatif,-0.7
+مقنع,Positif,0.8
+غير طبيعي,Négatif,-0.6
+تفوق,Positif,0.9
+راحة,Positif,0.7
+محبط,Négatif,-0.8
+متاعب,Négatif,-0.8
+تجنب,Négatif,-0.6
+فوضى,Négatif,-0.7
+قاسي,Négatif,-0.8
+تهديد,Négatif,-0.9
+فشل,Négatif,-0.9
+تقليل,Négatif,-0.6
+عزل,Négatif,-0.8
+فشل ذريع,Négatif,-1.0
+فريسة,Négatif,-0.8
+إعاقة,Négatif,-0.7
+استسلام,Négatif,-0.8
+حائط مسدود,Négatif,-0.9
+ضيق,Négatif,-0.7
+متردد,Négatif,-0.6
+تقييد,Négatif,-0.7
+أزمة,Négatif,-0.9
+شرير,Négatif,-1.0
+عداء,Négatif,-0.9
+منافسة,Neutre,0.0
+مواجهة,Neutre,0.0
+ترقب,Neutre,0.0
+مرونة,Positif,0.7
+إبداع,Positif,0.9
+براعة,Positif,0.8
+سلام,Positif,0.9
+تجديد,Positif,0.8
+إثارة,Positif,0.7
+زواج,Positif,1.0
+تواصل,Positif,0.7
+تعاون,Positif,0.8
+وفاق,Positif,0.9
+طاقة إيجابية,Positif,0.9
+تفاؤل,Positif,0.8
+نظام,Neutre,0.0
+رياح,Neutre,0.0
+عيون,Neutre,0.0
+توازن,Positif,0.7
+حوار,Positif,0.6
+ابتسامة,Positif,0.9
+سعادة غامرة,Positif,1.0
+مرح,Positif,0.8
+صداقة,Positif,0.8
+أصالة,Positif,0.7
+مغامرة,Positif,0.8
+إلهام,Positif,0.8
+دافئ,Positif,0.7
+حيادية,Neutre,0.0
+تحرر,Positif,0.9
+قلق,Négatif,-0.8
+تبرزيط,Négatif,-0.7
+نشاط,Positif,0.9
+قبول,Positif,0.6
+شجاعة,Positif,0.7
+تقة,Positif,0.8
+ملل,Négatif,-0.6
+لامبالاة,Négatif,-0.7
+رغبة,Positif,0.5
+شك,Négatif,-0.5
+إحراج,Négatif,-0.6
+إيمان,Positif,0.7
+تعاطف,Positif,0.7
+طمع,Négatif,-0.7
+دنب,Négatif,-0.8
+تأنيب الضمير,Négatif,-0.9
+لفرحة,Positif,1.0
+وحدة,Négatif,-0.7
+غيرة,Négatif,-0.6
+دلّ,Négatif,-0.5
+رعب,Négatif,-0.8
+الندم,Négatif,-0.9
+الرفض,Négatif,-0.7
+شفقة,Positif,0.6
+حنين,Positif,0.7
+حشمة,Négatif,-0.6
+صدمة,Négatif,-0.8
+حزن,Négatif,-0.8
+مفاجأة,Positif,0.7
+إحساس,Positif,0.6
+فرحان,Positif,0.9
+سعيد,Positif,1.0
+بخير,Positif,0.7
+مزيان بزاف,Positif,1.0
+برافو,Positif,0.9
+غضبان,Négatif,-0.9
+حزين,Négatif,-0.8
+كره,Négatif,-1.0
+دمرني,Négatif,-0.9
+مصيبة,Négatif,-1.0
+وخيبة,Négatif,-0.8
+ما عجبنيش,Négatif,-0.6
+ساهل,Positif,0.5
+جديد,Positif,0.6
+كرامة,Positif,0.8
+إعجاب,Positif,0.7
+تقدير,Positif,0.8
+امتنان,Positif,0.9
+عدم اليقين,Négatif,-0.8
+عدم الثقة,Négatif,-0.7
+حنان,Positif,0.8
+تعلق,Positif,0.7
+لطف,Positif,0.7
+زعاف,Négatif,-0.9
+مرارة,Négatif,-0.7
+إرادة,Positif,0.7
+رغبة كبيرة,Positif,0.9
+دافع,Positif,0.8
+عزم,Positif,0.8
+هدف,Positif,0.7
+قوة,Positif,1.0
+سعادة,Positif,1.0
+شجاعة,Positif,1.0
+شرف,Positif,1.0
+فرح,Positif,1.0
+انسجام,Positif,1.0
+طموح,Positif,1.0
+أمل,Positif,1.0
+اهتمام,Positif,0.9
+فخر,Positif,1.0
+احترام,Positif,1.0
+صداقة حقيقية,Positif,1.0
+هدوء,Positif,1.0
+صراحة,Positif,1.0
+دعم,Positif,1.0
+تواصل اجتماعي,Positif,1.0
+فهم,Positif,1.0
+كرامة,Positif,1.0
+دعم نفسي,Positif,1.0
+هدية,Positif,1.0
+تعزيز,Positif,1.0
+بقاء,Positif,0.9
+حب الذات,Positif,1.0
+فطرة,Positif,1.0
+توازن,Positif,1.0
+قوة الإرادة,Positif,1.0
+ولاء,Positif,1.0
+صبر مستمر,Positif,1.0
+ضمير,Positif,1.0
+خيال,Positif,1.0
+مغامرة,Positif,1.0
+سمو,Positif,1.0
+تسامح,Positif,1.0
+تسلية,Positif,1.0
+تفكير عميق,Positif,1.0
+عمل جماعي,Positif,1.0
+نضج,Positif,1.0
+تحفيز,Positif,1.0
+انضباط,Positif,1.0
+مواجهة,Positif,1.0
+حب التعلم,Positif,1.0
+انطلاق,Positif,1.0
+صفاء,Positif,1.0
+إصرار,Positif,1.0
+صراحة قلبية,Positif,1.0
+اهتمام خاص,Positif,1.0
+طمأنينة,Positif,1.0
+إبداع مستمر,Positif,1.0
+يلقيها ليه,Négatif,-1.0
+بزز,Négatif,-0.8
+مكتاءب,Négatif,-1.0
+حكرة,Négatif,-0.9
+حقرة,Négatif,-0.8
+كرفص,Négatif,-0.7
+غم,Négatif,-0.9
+كاعي,Négatif,-0.7
+مقهور,Négatif,-0.8
+مهلوك,Négatif,-0.9
+حريرة,Négatif,-0.7
+زربان,Négatif,-0.5
+بكى,Négatif,-0.8
+جوعان,Négatif,-0.6
+عيان,Négatif,-0.9
+متوتر,Négatif,-0.6
+فرحان,Positif,0.8
+زوين,Positif,0.9
+رابحة,Positif,0.8
+ربح,Positif,0.7
+بزاف الخير,Positif,0.9
+نعمة,Positif,0.8
+تعاون,Positif,0.7
+صبر,Positif,0.6
+معقول,Positif,0.7
+ضحك,Positif,0.9
+طيب,Positif,0.9
+هانية,Positif,0.8
+شكراً,Positif,0.7
+سلام,Positif,0.6
+نعسان,Neutre,0.0
+ممكن,Neutre,0.0
+حر,Neutre,0.0
+فقسة,Négatif,-0.8
+مرارة,Négatif,-0.9
+دخت,Négatif,-0.6
+زرب,Négatif,-0.5
+كذوب,Négatif,-0.9
+تعب,Négatif,-0.7
+غلب,Négatif,-0.6
+فوضى,Négatif,-0.8
+خايب,Négatif,-0.8
+حسرة,Négatif,-0.8
+محظوظ,Positif,0.8
+شكرًا,Positif,0.7
+هانيا,Positif,0.8
+شفار,Négatif,-0.9
+معياف,Négatif,-0.8
